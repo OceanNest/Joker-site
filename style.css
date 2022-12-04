@@ -1,11 +1,9 @@
 h1{
 	color:#992267;
-
 }
 
 h2{
 	color:#992267;
-
 }
 
 body{
@@ -16,8 +14,15 @@ header{
 	background-color: #156035;
 }
 
-
-
- p{
+p{
  	color:#601540;
+ }
+
+ .Profile{
+ 	border-radius: 50%;
+ 	margin-bottom: 200px;
+ 	overflow: hidden;
+
+ 	margin:-150px,0px,0px,-150px;
+ 
  }
